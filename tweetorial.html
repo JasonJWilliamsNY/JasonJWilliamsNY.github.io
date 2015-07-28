@@ -1,0 +1,225 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style media="all">/************** BASE CSS **************/
+html, body { margin: 0; padding: 0; }
+body { margin: 0 auto 2rem; padding: 0 2.5rem; max-width: 600px; font-family: Helvetica Neue; font-size: 9.0pt; font-weight: 400; }
+
+h1 { margin-bottom: 0.6rem; font-size: 2rem; }
+h2 { margin: 1.5rem 0 1rem; font-size: 1.5rem; }
+h3 { margin: 1.3rem 0 1rem; font-size: 1.2rem; }
+h4, h5, h6 { font-size: 1rem; }
+
+hr { margin: 2em 0; border: none; height: 3px; }
+
+img { max-width: 100%; }
+p { padding-top: 0.3rem; line-height: 1.5rem; font-size: 0.9rem; }
+
+.img-sandbox-error { padding: 20px 10px; border: solid 1px #ddd; }
+    .img-sandbox-error h2 { margin: 0; text-align: center; font-size: 16px; }
+    .img-sandbox-error p { margin: 0; padding-top: 15px; text-align: center; font-size: 12px; }
+
+table { width: 100%; border-collapse: collapse; border-spacing: 0; }
+    thead th { text-align: left; }
+        thead th[align="center"] { text-align: center; }
+        thead th[align="right"] { text-align: right; }
+    tr { margin: 0; padding: 0; }
+    th, td { margin: 0; padding: .75rem; }
+
+ul, ol { margin: 0; padding: 0 0 0 3rem; }
+  ul ul, ol ol { padding: 0.5rem 0 0.5rem 2rem; }
+ul { list-style-type: disc; }
+  li { padding: 0.15rem 0; font-size: 0.9rem; line-height: 1.4rem; }
+    .checkitem { position: relative; list-style: none; }
+    li p:first-child { margin: 0; padding: 0; }
+
+.checkitem input[type=checkbox] { -webkit-appearance: button; position: absolute; top: 4epx; left: -22px; width: 0.8rem; height: 0.8rem; border: solid 1px #000; border-radius: 2px; }
+
+code { padding: 0 3px; }
+pre { padding-top: 0.3rem; }
+pre code { display: block; padding: 7px; overflow: auto; line-height: 1.4rem; }
+
+blockquote { margin: 1rem 0 1rem 2rem; padding: 0 1rem; }
+    blockquote p { margin: 0; padding-bottom: 1rem; }
+    blockquote p:last-child { padding-bottom: 0.3rem; }
+
+.footnotes { font-size: .9rem; }
+sup a { padding-left: 1px; }
+    .footnotes a, sup a { text-decoration: none; }
+
+.erato-range, .erato-range a { display: inline; margin: 0 !important; padding: 0 !important; width: 0; height: 0; }
+
+/* -----------------------------------------------------------------------------
+   github.com style (c) Vasily Polovnyov <vast@whiteants.net>
+----------------------------------------------------------------------------- */
+
+.hljs {
+  display: block; padding: 0.5rem;
+  color: #333;
+}
+
+.hljs-comment,
+.hljs-template_comment,
+.diff .hljs-header,
+.hljs-javadoc {
+  color: #998;
+  font-style: italic
+}
+
+.hljs-keyword,
+.css .rule .hljs-keyword,
+.hljs-winutils,
+.javascript .hljs-title,
+.nginx .hljs-title,
+.hljs-subst,
+.hljs-request,
+.hljs-status {
+  color: #333;
+  font-weight: bold
+}
+
+.hljs-number,
+.hljs-hexcolor,
+.ruby .hljs-constant {
+  color: #099;
+}
+
+.hljs-string,
+.hljs-tag .hljs-value,
+.hljs-phpdoc,
+.tex .hljs-formula {
+  color: #d14
+}
+
+.hljs-title,
+.hljs-id,
+.coffeescript .hljs-params,
+.scss .hljs-preprocessor {
+  color: #900;
+  font-weight: bold
+}
+
+.javascript .hljs-title,
+.lisp .hljs-title,
+.clojure .hljs-title,
+.hljs-subst {
+  font-weight: normal
+}
+
+.hljs-class .hljs-title,
+.haskell .hljs-type,
+.vhdl .hljs-literal,
+.tex .hljs-command {
+  color: #458;
+  font-weight: bold
+}
+
+.hljs-tag,
+.hljs-tag .hljs-title,
+.hljs-rules .hljs-property,
+.django .hljs-tag .hljs-keyword {
+  color: #000080;
+  font-weight: normal
+}
+
+.hljs-attribute,
+.hljs-variable,
+.lisp .hljs-body {
+  color: #008080
+}
+
+.hljs-regexp {
+  color: #009926
+}
+
+.hljs-symbol,
+.ruby .hljs-symbol .hljs-string,
+.lisp .hljs-keyword,
+.tex .hljs-special,
+.hljs-prompt {
+  color: #990073
+}
+
+.hljs-built_in,
+.lisp .hljs-title,
+.clojure .hljs-built_in {
+  color: #0086b3
+}
+
+.hljs-preprocessor,
+.hljs-pragma,
+.hljs-pi,
+.hljs-doctype,
+.hljs-shebang,
+.hljs-cdata {
+  color: #999;
+  font-weight: bold
+}
+
+.hljs-deletion {
+  background: #fdd
+}
+
+.hljs-addition {
+  background: #dfd
+}
+
+.diff .hljs-change {
+  background: #0086b3
+}
+
+.hljs-chunk {
+  color: #aaa
+}
+
+/************** ERATO LIGHT CSS **************/
+body { color: #333; }
+
+hr { background: #eee; }
+a { color: #0060ff; }
+    a:hover { color: #0843a3; }
+
+thead th { background: #f8f8f8; }
+th, td { border: solid 1px #eee; }
+
+.checkitem input[type=checkbox] { border: solid 1px #ddd; background-color: #fff; }
+    .checkitem input[type=checkbox]:checked { background-color: #eee; }
+
+code { background: #f5f5f4; }
+blockquote { border-left: solid 6px #eee; }
+
+.footnotes { color: #999; }</style><script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script></head><body><h1>Impromptu tweetorial at Plant Biology 2015</h1>
+
+<div class="erato-range"><a data-range="45,111" name="45,111"></a></div><p>Have a colleague who should tweet but needs some encouragement? </p>
+
+<div class="erato-range"><a data-range="111,155" name="111,155"></a></div><p>Drag them to this experimental tweetorial!</p>
+
+<div class="erato-range"><a data-range="155,422" name="155,422"></a></div><p>This weird take on a tweetup - started as a off-the-cuff comment by @PlantTeaching (Mary) and @JasonWilliamsNY - might be a way to get your non-tweeting colleagues interested and informed. If there is any traction, maybe we can do something more formal next year ??</p>
+
+<div class="erato-range"><a data-range="422,845" name="422,845"></a></div><h3>Time/Location</h3>
+
+<p>Tuesday from 11:30 AM - 12PM; iPlant Booth (510)</p>
+
+<h3>How to Participate</h3>
+
+<ol>
+<li>Share the tweet via word of mouth, email, or other media (this is under organized, so tweeting is the only way I&#39;ve advertised) - Maybe @ASPB will make this an app notification <em>hint hint :)</em><br></li>
+<li>If they haven&#39;t done so, have your friend/colleague sign up for an account at <a href="http://www.twitter.com">www.twitter.com</a> <br></li>
+<li>Come by to share your tweet-skillz<br></li>
+</ol>
+
+<div class="erato-range"><a data-range="845,868" name="845,868"></a></div><h3>Background Reading</h3>
+
+<div class="erato-range"><a data-range="868,987" name="868,987"></a></div><p>We will base the tutorial on this <em>PLOS Computational Biology</em> paper (Yes - tweeting is science!) so share the link! </p>
+
+<div class="erato-range"><a data-range="987,1131" name="987,1131"></a></div><p><strong>Ten Simple Rules of Live Tweeting at Scientific Conferences:</strong><a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003789">http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003789</a> </p>
+
+<div class="erato-range"><a data-range="1131,1176" name="1131,1176"></a></div><h3>My Top 5 Reasons for Biologists to Tweet</h3>
+
+<div class="erato-range"><a data-range="1176,1707" name="1176,1707"></a></div><ol>
+<li>Because next to Google, Twitter is one of most important bioinformatics tools<br></li>
+<li>Going to a conference and not being on twitter is like using UCSC with all the tracks turned off<br></li>
+<li>Everyone has the same number of characters - everyone can have the same voice on twitter<br></li>
+<li>People (myself included) who will not reply to your email, but who will answer a tweet!<br></li>
+<li><p>I don&#39;t time for a blog (I&#39;ll just retweet yours), I can&#39;t be bothered with Facebook, but I&#39;m fine with maintaining an introvert-compatible level of human contact</p>
+
+<div class="erato-range"><a data-range="1707,1711" name="1707,1711"></a></div></li>
+</ol>
+<script>hljs.initHighlightingOnLoad();</script></body></html>
