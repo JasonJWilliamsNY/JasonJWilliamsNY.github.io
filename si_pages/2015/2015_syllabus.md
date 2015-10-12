@@ -4,24 +4,24 @@
 |Component|Percentage of Grade|
 |---------|-------------------|
 |Quizzes|20%|
-|Homework / Presentations|20%|
+|Homework / presentations|20%|
 |Tests|40%|
-|Engagement and Academic Ethic	|20%|
-Extra credit – Assignments are available upon request and can replace 1 quiz grade. **Email:** As I am part-time staff, I will use electronic mail extensively to communicate with students. Students are **expected to check their email at least weekly**, and check the website: [https://jasonjwilliamsny.github.io/si_pages/2015/2015_syllabus.html](https://jasonjwilliamsny.github.io/si_pages/2015/2015_syllabus.html) for handouts and assignments. The school provides email accounts to all students who need them. **Questions/Absences/Class cancellations:** I will call the main office for cancellation due to weather or emergency. Please email me for anything else: Williams@yuhsg.org (Please always cc Williams@cshl.edu)## Science Research Methodology 2015 Class schedule**September**
+|Engagement and academic ethic	|20%|
+Extra credit – Assignments are available upon request and can replace 1 quiz grade. **Email:** As I am part-time staff, I will use electronic mail extensively to communicate with students. Students are **expected to check their email at least weekly**, and check the website: [https://jasonjwilliamsny.github.io/si_pages/2015/2015_syllabus.html](https://jasonjwilliamsny.github.io/si_pages/2015/2015_syllabus.html) or [https://tiny.cc/si_2015](https://tiny.cc/si_2015) for handouts and assignments. The school provides email accounts to all students who need them. **Questions/Absences/Class cancellations:** I will call the main office for cancellation due to weather or emergency. Please email me for anything else: Williams@yuhsg.org (Please always cc Williams@cshl.edu)## Science Research Methodology 2015 Class schedule**September**
 
 |Date|Topic|Notes/Links|
 |----|-----|-----------||10| Orientation (5:30-6:00 PM)|<ul><li>[At the Bench](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/pdfs/at_the_bench.pdf)</li><li>[What is Science - Intro reading](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/pdfs/what_is_science.pdf)</li></ul>(Tip: To download the PDFs click the 'Raw' button at the top of the page)|**October**
 |Date|Topic|Notes/Links|
 |----|-----|-----------|
-|12/13|Laboratory Safety and Measurements||
+|12/13|Laboratory Safety and Measurements|<ul><li>[How to read an MSDS](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/pdfs/howtoreadmsds.pdf)</li><li>[Notes, week of 10/12](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/notes_2015_week_10_12.md)</li></ul>|
 |19/20|(No Class)Reading and homework assignment||
-|26/27|DNA Barcoding Laboratory|(Quiz I – Tuesday)||
+|26/27|DNA Barcoding Laboratory||(Quiz I – Tuesday)|
 **November**
 
 |Date|Topic|Notes/Links|
 |----|-----|-----------|
 |2/3|DNA Barcoding Bioinformatics Laboratory||
-|9/10|Introduction to Scientific Computing|||23/24|Human Polymorphisms PCR Lab (Alu I) (Quiz II -Tuesday)||
+|9/10|Introduction to Scientific Computing|||23/24|Human Polymorphisms PCR Lab (Alu I)|(Quiz II -Tuesday)|
 |30 – Dec1|Restriction Enzymes||
 **December**
 
@@ -29,9 +29,9 @@
 |----|-----|-----------|
 |6/7,14|School Holiday||
 |15|Restriction Enzymes II||
-|21/22|Gel Electrophoresis Laboratory (Quiz III – Tuesday)||
+|21/22|Gel Electrophoresis Laboratory|(Quiz III – Tuesday)|
 |28/29|Scientific Computing II||
 **January**
 
 |Date|Topic|Notes/Links|
-|----|-----|-----------||4/5|GMO Summative Laboratory **No other January Classes** – Take home final||
+|----|-----|-----------||4/5|GMO Summative Laboratory **No other January Classes** – |(Take home final)|
