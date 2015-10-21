@@ -14,8 +14,8 @@
 |Date|Topic|Notes/Links|
 |----|-----|-----------|
 |12/13|Laboratory Safety and Measurements|<ul><li>[How to read an MSDS](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/pdfs/howtoreadmsds.pdf)</li><li>[Notes, week of 10/12](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/notes_2015_week_10_12.md)</li></ul>|
-|19/20|(No Class)Reading and homework assignment||
-|26/27|DNA Barcoding Laboratory||(Quiz I – Tuesday)|
+|19/20|(No Class)Reading and homework assignment|<ul><li>[Notes, week of 10/19](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/notes_2015_week_10_19.md)<li>[Homework and quiz review](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/Homework_and_quizereview_due_10:26.md)|
+|26/27|DNA Barcoding Laboratory|(Quiz I – Tuesday)|
 **November**
 
 |Date|Topic|Notes/Links|
