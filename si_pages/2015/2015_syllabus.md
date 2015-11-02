@@ -15,12 +15,12 @@
 |----|-----|-----------|
 |12/13|Laboratory Safety and Measurements|<ul><li>[How to read an MSDS](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/pdfs/howtoreadmsds.pdf)</li><li>[Notes, week of 10/12](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/notes_2015_week_10_12.md)</li></ul>|
 |19/20|(No Class)Reading and homework assignment|<ul><li>[Notes, week of 10/19](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/notes_2015_week_10_19.md)<li>[Homework and quiz review](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/Homework_and_quizereview_due_10:26.md)|
-|26/27|DNA Barcoding Laboratory|<ul><li>(Quiz I – Tuesday)</li> <li>[Notes, week of 10/26](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/notes_2015_week_10_26.md)</li><li>[DNA Barcoding Lab Manual](https://github.com/JasonJWilliamsNY/science_institute_2015/tree/master/pdfs/using-dna-barcodes.pdf)</li>|
+|26/27|DNA Barcoding Laboratory|<ul><li>(Quiz I – Tuesday)</li> <li>[Notes, week of 10/26](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/notes_2015_week_10_26.md)</li><li>[DNA Barcoding Lab Manual](https://github.com/JasonJWilliamsNY/science_institute_2015/tree/master/pdfs/using-dna-barcodes.pdf)</li></ul>|
 **November**
 
 |Date|Topic|Notes/Links|
 |----|-----|-----------|
-|2/3|DNA Barcoding Bioinformatics Laboratory||
+|2/3|DNA Barcoding Bioinformatics Laboratory|<ul><li>[Homework - making pull requests](http://screencast-o-matic.com/watch/coXnrZh6aK)</li><li>[Homework - Calculations Study Sheet](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/calculationstudysheet_2015.md)</li></ul>|
 |9/10|Introduction to Scientific Computing|||23/24|Human Polymorphisms PCR Lab (Alu I)|(Quiz II -Tuesday)|
 |30 – Dec1|Restriction Enzymes||
 **December**
