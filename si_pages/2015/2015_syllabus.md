@@ -21,8 +21,8 @@
 |Date|Topic|Notes/Links|
 |----|-----|-----------|
 |2/3|DNA Barcoding Bioinformatics Laboratory|<ul><li>[Homework - making pull requests](http://screencast-o-matic.com/watch/coXnrZh6aK)</li><li>[Homework - Calculations Study Sheet](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/calculationstudysheet_2015.md)</li></ul>|
-|9/10|Introduction to Scientific Computing|||23/24|Human Polymorphisms PCR Lab (Alu I)|(Quiz II -Tuesday)|
-|30 – Dec1|Restriction Enzymes||
+|9/10|DNA Barcoding Continued|<ul><li>[Notes Week of 11/9](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/notes_2015_week_11_09.md)<li>[Semester notes homework GitHub Policy](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/Homework_11_09.md)</ul>||23/24|Scientific Computing|(Quiz II -Tuesday)|
+|30 (**No class Monday 11/30**) – Dec1|Restriction Enzymes||
 **December**
 
 |Date|Topic|Notes/Links|
