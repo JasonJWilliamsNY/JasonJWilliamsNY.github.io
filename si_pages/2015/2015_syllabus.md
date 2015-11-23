@@ -22,14 +22,14 @@
 |----|-----|-----------|
 |2/3|DNA Barcoding Bioinformatics Laboratory|<ul><li>[Homework - making pull requests](http://screencast-o-matic.com/watch/coXnrZh6aK)</li><li>[Homework - Calculations Study Sheet](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/calculationstudysheet_2015.md)</li></ul>|
 |9/10|DNA Barcoding Continued|<ul><li>[Notes Week of 11/9](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/notes_2015_week_11_09.md)<li>[Semester notes homework GitHub Policy](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/Homework_11_09.md)</ul>|
-|16/17|DNA Barcoding Continued|<ul><li>[Review Sheet](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/quizII-reviewsheet_week_11_16.md)</li></ul>|23/(**No Class Tuesday 24th early dismissal**)|Scientific Computing|(Quiz II - Monday after review)|
-|30 (**No class Monday 11/30**) – Dec1|Restriction Enzymes||
+|16/17|DNA Barcoding Continued|<ul><li>[Review Sheet](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/quizII-reviewsheet_week_11_16.md)</li></ul>|23/(**No Class Tuesday 24th early dismissal**)|Scientific Computing|<ul><li>(Quiz II - Monday after review)</li><li>[Notes Week of 11/23](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/notes_2015_week_11_23.md)</li><li>[Markdown Homework](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/markdown_homework/markdown_homework.md)</li></ul>|
+|30 (**No class Monday 11/30**) – Dec1|Scientific Computing I||
 **December**
 
 |Date|Topic|Notes/Links|
 |----|-----|-----------|
 |6/7,14|School Holiday||
-|15|Restriction Enzymes II||
+|15|Restriction Enzymes I||
 |21/22|Gel Electrophoresis Laboratory|(Quiz III – Tuesday)|
 |28/29|Scientific Computing II||
 **January**
