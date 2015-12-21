@@ -29,10 +29,10 @@
 |Date|Topic|Notes/Links|
 |----|-----|-----------|
 |6/7,14|School Holiday||
-|15|Restriction Enzymes I||
-|21/22|Gel Electrophoresis Laboratory|(Quiz III – Tuesday)|
-|28/29|Scientific Computing II||
+|15|Scientific Computing II||
+|21/(no class 22nd)|Scientific Computing III|[Data lab questions](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/barcoding_datalab_questions.md)|
+|28/29|Electrophoresis Laboratory|(Quiz III – Tuesday)|
 **January**
 
 |Date|Topic|Notes/Links|
-|----|-----|-----------||4/5|GMO Summative Laboratory **No other January Classes** – |(Take home final)|
+|----|-----|-----------||4/5|Lab practical **No other January Classes** – |(Take home final)|
