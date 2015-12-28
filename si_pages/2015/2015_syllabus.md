@@ -31,7 +31,7 @@
 |6/7,14|School Holiday||
 |15|Scientific Computing II||
 |21/(no class 22nd)|Scientific Computing III|[Data lab questions](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/barcoding_datalab_questions.md)|
-|28/29|Electrophoresis Laboratory|<ul><li>(Quiz III – Tuesday)<li>[Quiz 3 review sheet](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/quiz3_review.md)</ul>|
+|28/29|Electrophoresis Laboratory|<ul><li>(Quiz III – Tuesday)<li>[Quiz 3 review sheet](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/quiz3_review.md)<li>[Notes Week of 12/28](https://github.com/JasonJWilliamsNY/science_institute_2015/blob/master/notes_2015_week_12_28.md)</ul>|
 **January**
 
 |Date|Topic|Notes/Links|
