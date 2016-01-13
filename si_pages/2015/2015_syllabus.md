@@ -3,9 +3,9 @@
 
 |Component|Percentage of Grade|
 |---------|-------------------|
-|Quizzes|20%|
+|Quizzes|40%|
 |Homework / presentations|20%|
-|Tests|40%|
+|Semester final assignment|20%|
 |Engagement and academic ethic	|20%|
 Extra credit – Assignments are available upon request and can replace 1 quiz grade. **Email:** As I am part-time staff, I will use electronic mail extensively to communicate with students. Students are **expected to check their email at least weekly**, and check the website: [https://jasonjwilliamsny.github.io/si_pages/2015/2015_syllabus.html](https://jasonjwilliamsny.github.io/si_pages/2015/2015_syllabus.html) or [https://tiny.cc/si_2015](https://tiny.cc/si_2015) for handouts and assignments. The school provides email accounts to all students who need them. **Questions/Absences/Class cancellations:** I will call the main office for cancellation due to weather or emergency. Please email me for anything else: Williams@yuhsg.org (Please always cc Williams@cshl.edu)## Science Research Methodology 2015 Class schedule**September**
 
