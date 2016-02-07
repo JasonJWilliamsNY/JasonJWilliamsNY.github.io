@@ -1,10 +1,9 @@
-#Science Research and Methodology###Yeshiva University High School for Girls###Fall 2015Jason Williams: InstructorMondays 5:40-6:30, Tuesdays 5:40-7:00pm**Objective:** This course is designed with the intention of producing thinkers first and scientists second. The fall half of the course will give a broad introduction of the skills in modern molecular biology. Students will cover basic experiments and techniques in molecular biology. As their knowledge increases, their methodological insights will be put into appropriate scientific context.**Skills:** Students should hope to understand the following subject areas:* Understanding of the “scientific” method* Ability to independently design and critique experiments* Ability to do independent research* Awareness of current advances, and issues in science* How to find scientific mentors and get started on summer research projects* The basic techniques of the modern biological laboratory.  **Class Materials:** Students are expected to come prepared to each class* Notebook or loose-leaf binder for in-class notes* A laboratory notebook (marble notebook)
+#Science Research and Methodology###Yeshiva University High School for Girls###Spring 2016Jason Williams: InstructorMondays 5:40-7:00, Tuesdays 5:40-7:00pm**Objective:** This course is designed with the intention of producing thinkers first and scientists second. The fall half of the course will give a broad introduction of the skills in modern molecular biology. Students will cover basic experiments and techniques in molecular biology. As their knowledge increases, their methodological insights will be put into appropriate scientific context.**Skills:** Students should hope to understand the following subject areas:* Understanding of the “scientific” method* Ability to independently design and critique experiments* Ability to do independent research* Awareness of current advances, and issues in science* How to find scientific mentors and get started on summer research projects* The basic techniques of the modern biological laboratory.  **Class Materials:** Students are expected to come prepared to each class* Notebook or loose-leaf binder for in-class notes* A laboratory notebook (marble notebook)
 * USB thumbdrive **Tests/Grades:** We will have quizzes monthly at the start of class. These will be posted on the calendar. Semester grade composition: 
 
 |Component|Percentage of Grade|
 |---------|-------------------|
-|Quizzes|40%|
-|Homework / presentations|20%|
+|Homework assignments|60%|
 |Semester final assignment|20%|
 |Engagement and academic ethic	|20%|
 Extra credit – Assignments are available upon request and can replace 1 quiz grade. **Email:** As I am part-time staff, I will use electronic mail extensively to communicate with students. Students are **expected to check their email at least weekly**, and check the website: [https://jasonjwilliamsny.github.io/si_pages/2015/2015_syllabus.html](https://jasonjwilliamsny.github.io/si_pages/2015/2015_syllabus.html) or [https://tiny.cc/si_2015](https://tiny.cc/si_2015) for handouts and assignments. The school provides email accounts to all students who need them. **Questions/Absences/Class cancellations:** I will call the main office for cancellation due to weather or emergency. Please email me for anything else: Williams@yuhsg.org (Please always cc Williams@cshl.edu)## Science Research Methodology 2015 Class schedule**September**
@@ -35,4 +34,32 @@
 **January**
 
 |Date|Topic|Notes/Links|
-|----|-----|-----------||4/5|Lab practical **No other January Classes** – |(Take home final)|
+|----|-----|-----------||4/5|Lab practical **No other January Classes** – |(Take home final)|**February**
+|Date|Topic|Notes/Links|
+|----|-----|-----------|
+|1|**No Class**||
+|8|Restriction Enzymes and Controls||
+|15|**No Class; school holiday**||
+|22|Scientific Writing Lab||
+|29|Scientific Writing Lab||
+
+**March**
+|Date|Topic|Notes/Links|
+|----|-----|-----------|
+|7|Designing PCR Primers||
+|14|PCR Experiments||
+|21|Data Analysis with Python I||
+|28|Data Analysis with Python II||**April**
+|Date|Topic|Notes/Links|
+|----|-----|-----------|
+|4|Data Analysis with Python II||
+|11|Semester end project planning||
+|18|Open Lab Session||
+|25|**No Class; school holiday**||**May**
+|Date|Topic|Notes/Links|
+|----|-----|-----------|
+|2|Open Lab Session||
+|9|Data Analysis Lab session||
+|16|Data Analysis Lab Session ||
+|23|Field Trip Week (?)||
+|30|Final in-class Lab work||
