@@ -1,33 +1,7 @@
-<<<<<<< HEAD
-#Science Research and Methodology
-###Yeshiva University High School for Girls
-###Spring 2016
 
-Jason Williams: Instructor
-Mondays 5:40-7:00, Tuesdays 5:40-7:00pm
-
-**Objective:** This course is designed with the intention of producing thinkers first and scientists second. The fall half of the course will give a broad introduction of the skills in modern molecular biology. Students will cover basic experiments and techniques in molecular biology. As their knowledge increases, their methodological insights will be put into appropriate scientific context.
-
-**Skills:** Students should hope to understand the following subject areas:
-* Understanding of the “scientific” method
-* Ability to independently design and critique experiments
-* Ability to do independent research
-* Awareness of current advances, and issues in science
-* How to find scientific mentors and get started on summer research projects
-* The basic techniques of the modern biological laboratory.  
-
-**Class Materials:** Students are expected to come prepared to each class
-* Notebook or loose-leaf binder for in-class notes
-* A laboratory notebook (marble notebook)
-* USB thumbdrive 
-
-**Tests/Grades:** We will have quizzes monthly at the start of class. These will be posted on the calendar. 
-
-Semester grade composition: 
-=======
 #Science Research and Methodology###Yeshiva University High School for Girls###Spring 2016Jason Williams: InstructorMondays 5:40-7:00, Tuesdays 5:40-7:00pm**Objective:** This course is designed with the intention of producing thinkers first and scientists second. The fall half of the course will give a broad introduction of the skills in modern molecular biology. Students will cover basic experiments and techniques in molecular biology. As their knowledge increases, their methodological insights will be put into appropriate scientific context.**Skills:** Students should hope to understand the following subject areas:* Understanding of the “scientific” method* Ability to independently design and critique experiments* Ability to do independent research* Awareness of current advances, and issues in science* How to find scientific mentors and get started on summer research projects* The basic techniques of the modern biological laboratory.  **Class Materials:** Students are expected to come prepared to each class* Notebook or loose-leaf binder for in-class notes* A laboratory notebook (marble notebook)
 * USB thumbdrive **Tests/Grades:** We will have quizzes monthly at the start of class. These will be posted on the calendar. Semester grade composition: 
->>>>>>> 68e1f4af1ba9d3328371fe659b04b0af8e02ff1b
+
 
 |Component|Percentage of Grade|
 |---------|-------------------|
@@ -99,26 +73,26 @@ Extra credit – Assignments are available upon request and can replace 1 quiz g
 
 |Date|Topic|Notes/Links|
 |----|-----|-----------|
-|7|Designing PCR Primers||
-|14|PCR Experiments||
-|21|Data Analysis with Python I||
-|28|Data Analysis with Python II||
+|7|RA Experiment cont'd||
+|14|Data Analysis with Python I||
+|21|Data Analysis with Python II||
+|28| (Virtual) Data Analysis with Python III||
 
 **April**
 
 |Date|Topic|Notes/Links|
 |----|-----|-----------|
-|4|Data Analysis with Python II||
-|11|Semester end project planning||
-|18|Open Lab Session||
+|4|(Virtual) Data Analysis with Python IV||
+|11|(Virtual) Data Analysis with Python V||
+|18|PCR Experiemnt||
 |25|**No Class; school holiday**||
 
 **May**
 
 |Date|Topic|Notes/Links|
 |----|-----|-----------|
-|2|Open Lab Session||
-|9|Data Analysis Lab session||
-|16|Data Analysis Lab Session ||
-|23|Field Trip Week (?)||
-|30|Final in-class Lab work||
+|2|Barcoding Lab assignemnt||
+|9|Field Trip Week||
+|16|Open Lab||
+|23|Open Lab||
+|30|Take home lab assignment writing||
