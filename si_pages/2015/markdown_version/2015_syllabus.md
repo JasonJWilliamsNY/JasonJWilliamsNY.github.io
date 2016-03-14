@@ -74,7 +74,7 @@ Extra credit – Assignments are available upon request and can replace 1 quiz g
 |Date|Topic|Notes/Links|
 |----|-----|-----------|
 |7|RA Experiment cont'd||
-|14|Data Analysis with Python I||
+|14|Data Analysis with Python I|<ul><li>Download notebook here [Intro Python Notebook](http://de.iplantcollaborative.org/dl/d/2C57E7F4-C0F2-42AE-B603-D404DB09BFCE/intro_python_si_2016.ipynb)<li>Install [Anaconda (choose Python 3.5 version)](https://www.continuum.io/downloads)|
 |21|Data Analysis with Python II||
 |28| (Virtual) Data Analysis with Python III||
 
