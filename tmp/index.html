@@ -1,0 +1,259 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><style media="all">/************** BASE CSS **************/
+html, body { margin: 0; padding: 0; }
+body { margin: 0 auto 2rem; padding: 0 2.5rem; max-width: 600px; font-family: Helvetica Neue; font-size: 9.0pt; font-weight: 400; }
+
+h1 { margin-bottom: 0.6rem; font-size: 2rem; }
+h2 { margin: 1.5rem 0 1rem; font-size: 1.5rem; }
+h3 { margin: 1.3rem 0 1rem; font-size: 1.2rem; }
+h4, h5, h6 { font-size: 1rem; }
+
+hr { margin: 2em 0; border: none; height: 3px; }
+
+img { max-width: 100%; }
+p { padding-top: 0.3rem; line-height: 1.5rem; font-size: 0.9rem; }
+
+.img-sandbox-error { padding: 20px 10px; border: solid 1px #ddd; }
+    .img-sandbox-error h2 { margin: 0; text-align: center; font-size: 16px; }
+    .img-sandbox-error p { margin: 0; padding-top: 15px; text-align: center; font-size: 12px; }
+
+table { width: 100%; border-collapse: collapse; border-spacing: 0; }
+    thead th { text-align: left; }
+        thead th[align="center"] { text-align: center; }
+        thead th[align="right"] { text-align: right; }
+    tr { margin: 0; padding: 0; }
+    th, td { margin: 0; padding: .75rem; }
+
+ul, ol { margin: 0; padding: 0 0 0 3rem; }
+  ul ul, ol ol { padding: 0.5rem 0 0.5rem 2rem; }
+ul { list-style-type: disc; }
+  li { padding: 0.15rem 0; font-size: 0.9rem; line-height: 1.4rem; }
+    .checkitem { position: relative; list-style: none; }
+    li p:first-child { margin: 0; padding: 0; }
+
+.checkitem input[type=checkbox] { -webkit-appearance: button; position: absolute; top: 4epx; left: -22px; width: 0.8rem; height: 0.8rem; border: solid 1px #000; border-radius: 2px; }
+
+code { padding: 0 3px; }
+pre { padding-top: 0.3rem; }
+pre code { display: block; padding: 7px; overflow: auto; line-height: 1.4rem; }
+
+blockquote { margin: 1rem 0 1rem 2rem; padding: 0 1rem; }
+    blockquote p { margin: 0; padding-bottom: 1rem; }
+    blockquote p:last-child { padding-bottom: 0.3rem; }
+
+.footnotes { font-size: .9rem; }
+sup a { padding-left: 1px; }
+    .footnotes a, sup a { text-decoration: none; }
+
+.erato-range, .erato-range a { display: inline; margin: 0 !important; padding: 0 !important; width: 0; height: 0; }
+
+/* -----------------------------------------------------------------------------
+   github.com style (c) Vasily Polovnyov <vast@whiteants.net>
+----------------------------------------------------------------------------- */
+
+.hljs {
+  display: block; padding: 0.5rem;
+  color: #333;
+}
+
+.hljs-comment,
+.hljs-template_comment,
+.diff .hljs-header,
+.hljs-javadoc {
+  color: #998;
+  font-style: italic
+}
+
+.hljs-keyword,
+.css .rule .hljs-keyword,
+.hljs-winutils,
+.javascript .hljs-title,
+.nginx .hljs-title,
+.hljs-subst,
+.hljs-request,
+.hljs-status {
+  color: #333;
+  font-weight: bold
+}
+
+.hljs-number,
+.hljs-hexcolor,
+.ruby .hljs-constant {
+  color: #099;
+}
+
+.hljs-string,
+.hljs-tag .hljs-value,
+.hljs-phpdoc,
+.tex .hljs-formula {
+  color: #d14
+}
+
+.hljs-title,
+.hljs-id,
+.coffeescript .hljs-params,
+.scss .hljs-preprocessor {
+  color: #900;
+  font-weight: bold
+}
+
+.javascript .hljs-title,
+.lisp .hljs-title,
+.clojure .hljs-title,
+.hljs-subst {
+  font-weight: normal
+}
+
+.hljs-class .hljs-title,
+.haskell .hljs-type,
+.vhdl .hljs-literal,
+.tex .hljs-command {
+  color: #458;
+  font-weight: bold
+}
+
+.hljs-tag,
+.hljs-tag .hljs-title,
+.hljs-rules .hljs-property,
+.django .hljs-tag .hljs-keyword {
+  color: #000080;
+  font-weight: normal
+}
+
+.hljs-attribute,
+.hljs-variable,
+.lisp .hljs-body {
+  color: #008080
+}
+
+.hljs-regexp {
+  color: #009926
+}
+
+.hljs-symbol,
+.ruby .hljs-symbol .hljs-string,
+.lisp .hljs-keyword,
+.tex .hljs-special,
+.hljs-prompt {
+  color: #990073
+}
+
+.hljs-built_in,
+.lisp .hljs-title,
+.clojure .hljs-built_in {
+  color: #0086b3
+}
+
+.hljs-preprocessor,
+.hljs-pragma,
+.hljs-pi,
+.hljs-doctype,
+.hljs-shebang,
+.hljs-cdata {
+  color: #999;
+  font-weight: bold
+}
+
+.hljs-deletion {
+  background: #fdd
+}
+
+.hljs-addition {
+  background: #dfd
+}
+
+.diff .hljs-change {
+  background: #0086b3
+}
+
+.hljs-chunk {
+  color: #aaa
+}
+
+/************** ERATO LIGHT CSS **************/
+body { color: #333; }
+
+hr { background: #eee; }
+a { color: #0060ff; }
+    a:hover { color: #0843a3; }
+
+thead th { background: #f8f8f8; }
+th, td { border: solid 1px #eee; }
+
+.checkitem input[type=checkbox] { border: solid 1px #ddd; background-color: #fff; }
+    .checkitem input[type=checkbox]:checked { background-color: #eee; }
+
+code { background: #f5f5f4; }
+blockquote { border-left: solid 6px #eee; }
+
+.footnotes { color: #999; }</style><script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/highlight.min.js"></script></head><body><h1>Java Configuration for Simulation Server</h1>
+
+<div class="erato-range"><a data-range="44,61" name="44,61"></a></div><h2>Web Browser</h2>
+
+<div class="erato-range"><a data-range="61,116" name="61,116"></a></div><p><a href="">Firefox</a> is highly recommended to use Bioservers. </p>
+
+<div class="erato-range"><a data-range="116,145" name="116,145"></a></div><h2>Java Configuration Steps</h2>
+
+<div class="erato-range"><a data-range="145,523" name="145,523"></a></div><ol>
+<li>Open the Java Security Settings<br>
+
+<ul>
+<li>PC: Open <strong>Control Panel &gt; Programs &gt; Java</strong><br></li>
+<li>Mac: Open <strong>System Preferences &gt; Java</strong><br>
+<br><img src="./1.png" alt=""> <br></li>
+</ul></li>
+<li>Click the <strong>Security</strong> tab and check <strong>Enable Java in the Browser</strong>. <br></li>
+<li>Under &#39;Exception Site List&#39; click <strong>Edit Site List...</strong><br></li>
+<li>Click <strong>Add</strong> then add <strong><a href="http://www.bioservers.org">http://www.bioservers.org</a></strong>, next click <strong>OK</strong> and close the panel<br></li>
+</ol>
+
+<div class="erato-range"><a data-range="523,561" name="523,561"></a></div><h2>Access Bioservers and enable Java</h2>
+
+<div class="erato-range"><a data-range="561,1043" name="561,1043"></a></div><ol>
+<li>Go to (<a href="http://www.bioservers.org/bioserver/)%5Bhttp://www.bioservers.org/bioserver/%5D">http://www.bioservers.org/bioserver/)[http://www.bioservers.org/bioserver/]</a> and under &#39;Simulation Server&#39; click <strong>ENTER</strong>. <br>
+<br><img src="./3.jpg" alt=""> <br></li>
+<li>If Java is disabled look for and click the <strong>Activate Java</strong> link. <br></li>
+<li>You may get several security prompts depending on your version of Java, it is OK to run Java, and accept any warning. If you should be able to skip this step and update later if you choose. <br></li>
+<li>You should now see the simulation server. <br>
+<br><img src="./2.jpg" alt=""> <br></li>
+</ol>
+
+<div class="erato-range"><a data-range="1043,1063" name="1043,1063"></a></div><h2>Additional Help</h2>
+
+<div class="erato-range"><a data-range="1063,1175" name="1063,1175"></a></div><h3>If Java is still not functioning:</h3>
+
+<p>Your web browser may be blocking it. You can directly unblock as follows:</p>
+
+<div class="erato-range"><a data-range="1175,1189" name="1175,1189"></a></div><h4>Firefox</h4>
+
+<div class="erato-range"><a data-range="1189,1652" name="1189,1652"></a></div><ol>
+<li>Open the Firefox browser or restart it, if it is already running<br></li>
+<li>From the Firefox menu, select Tools, then click the Add-ons option<br></li>
+<li>In the Add-ons Manager window, select Plugins<br></li>
+<li>Click Java (TM) Platform plugin (Windows) or Java Applet Plug-in (Mac OS X) to select it<br></li>
+<li>Check that the option selected is Ask to Activate or Always Activate or on older Firefox versions, click on the Enable button (if the button says Disable, Java is already enabled)<br></li>
+</ol>
+
+<div class="erato-range"><a data-range="1652,1677" name="1652,1677"></a></div><h4>Internet Explorer</h4>
+
+<div class="erato-range"><a data-range="1677,1911" name="1677,1911"></a></div><ol>
+<li>Click Tools and then Internet Options<br></li>
+<li>Select the Security tab, and select the Custom Level button<br></li>
+<li>Scroll down to Scripting of Java applets<br></li>
+<li>Make sure the Enable radio button is checked<br></li>
+<li>Click OK to save your preference <br></li>
+</ol>
+
+<div class="erato-range"><a data-range="1911,1924" name="1911,1924"></a></div><h4>Safari</h4>
+
+<div class="erato-range"><a data-range="1924,2242" name="1924,2242"></a></div><ol>
+<li>Click on Safari and select Preferences<br></li>
+<li>Choose the Security option<br></li>
+<li>Select Allow Plug-ins, then click on Manage Website Settings<br></li>
+<li>Click on the Java item, select an option (Ask, Allow or Allow Always) from the pulldown list When visiting other websites<br></li>
+<li>Click Done, then close the Safari Preferences window<br></li>
+</ol>
+
+<div class="erato-range"><a data-range="2242,2273" name="2242,2273"></a></div><h3>If Java is not installed:</h3>
+
+<div class="erato-range"><a data-range="2273,2321" name="2273,2321"></a></div><p><a href="https://java.com/en/download/">Download Java</a></p>
+<script>hljs.initHighlightingOnLoad();</script></body></html>
