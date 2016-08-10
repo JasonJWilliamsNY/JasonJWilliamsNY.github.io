@@ -3,7 +3,7 @@
 
 ## Web Browser
 
-[Firefox]() is highly recommended to use Bioservers. 
+[Firefox](https://www.mozilla.org/en-US/firefox) is highly recommended to use Bioservers. 
 
 ## Java Configuration Steps
 
@@ -17,7 +17,7 @@
 
 ## Access Bioservers and enable Java
 
-1. Go to (http://www.bioservers.org/bioserver/)[http://www.bioservers.org/bioserver/] and under 'Simulation Server' click **ENTER**. 
+1. Go to [http://www.bioservers.org/bioserver/](http://www.bioservers.org/bioserver/) and under 'Simulation Server' click **ENTER**. 
 <br>![](./3.jpg) 
 2. If Java is disabled look for and click the **Activate Java** link. 
 3. You may get several security prompts depending on your version of Java, it is OK to run Java, and accept any warning. If you should be able to skip this step and update later if you choose. 
